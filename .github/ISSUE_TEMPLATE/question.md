@@ -6,6 +6,6 @@ labels: ''
 assignees: ''
 
 ---
-** 
-Please make sure your issue is not addressed in the [LLVM primer](https://github.com/prosyslab-classroom/llvm-primer).
-**
+** Delete the below lines when you submit this issue **
+- Please make sure your issue is not addressed in the [LLVM primer](https://github.com/prosyslab-classroom/llvm-primer).
+- TAs will not help debugging your code.
