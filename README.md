@@ -1,20 +1,15 @@
-# IS593: Language-based Security
+# CS592: Introduction to Program Analysis
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
-- TAs: Changhoon Song (songch@kaist.ac.kr) , Hyunsoo Shin (hyunsooda@kaist.ac.kr)
+- TAs: 
 - Time: Mon/Wed 09:00 - 10:30
 - Office hour: Mon 10:30 - 11:30, N5 #2321
-- Location: N1 #114
+- Location: 
 
 ## Course Description
-This course teaches a series of topics to build safe software systems based on programming language theories and techniques. The course covers formal semantics of programming languages and state-of-the-art techniques to formally estimate software behavior to prevent security vulnerabilities beforehand. In addition, the course introduces new waves in language-based security, thereby encouraging students to imagine and realize secure and reliable programming systems.
 
 ## Grading
-- Homework: 50%
-- Project: 30%
-- Midterm: 0% (due to the COVID-19 outbreak)
-- Final: 20%
 
 ## Textbook
 - Lecture slides will be provided
@@ -41,26 +36,6 @@ The late homework policy is as follows:
 
 
 ## Project
-Students will propose their own project topics in the middle of the semester
-and present their final results at the end. See the [guidelines](slides/project.pdf) for the details.
-Here are a selected list of research papers that use static analysis for interesting problems in different area:
-- Security
-  - [Airbus Controller SW Verification](https://dl.acm.org/doi/abs/10.1145/781131.781153)
-  - [API Misuse Detection](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_yun.pdf)
-  - [Side-channel Attack Detection](https://dl.acm.org/doi/10.1145/3314221.3314647)
-  - [Android Malware Detection](https://dl.acm.org/doi/10.1145/2594291.2594299)
-  - [Smart Contract Program Analysis](https://arxiv.org/pdf/1908.11227.pdf)
-  - [Web Security Analysis](https://www.ndss-symposium.org/ndss2014/programme/simulation-built-php-features-precise-static-code-analysis/)
-- Software Engineering
-  - [Code Clone Detection](https://dl.acm.org/doi/10.1145/1985793.1985835)
-- Operating Systems
-  - [Filesystem Bug Detection](https://dl.acm.org/doi/10.1145/2815400.2815422)
-  - [Linux Kernel Malicious Extension Detection](https://dl.acm.org/doi/10.1145/3314221.3314590)
-- Architecture
-  - [Cache Behavior Analysis](https://dl.acm.org/doi/10.1145/3290367)
-
-This [tool](https://github.com/travitch/whole-program-llvm) will be useful when you run your LLVM analyzer
-for realword programs.
 
 ## Academic Integrity Violation
 Students who violates academic integrity will get an F.
@@ -82,7 +57,4 @@ Students who violates academic integrity will get an F.
 |10|[Advanced Static Analysis Techniques (3):<br>Selective X-sensitivity](slides/lecture10.pdf)|[[PLDI14](https://dl.acm.org/doi/10.1145/2594291.2594318)]||
 |11|[Advanced Static Analysis Techniques (4):<br>Modular Analysis](slides/lecture11.pdf)|[Chap. 5.4], [[InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)]|
 |12|[New Wave in Language-based Security (1):<br>Program Analysis with AI](slides/lecture12.pdf)|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
-|13|[New Wave in Language-based Security (2):<br>Program Debloating](slides/lecture13.pdf)|[[TSE2002](https://dl.acm.org/doi/10.1109/32.988498)], [[ICSE18](https://dl.acm.org/doi/abs/10.1145/3180155.3180236)], [[CCS18](https://dl.acm.org/doi/10.1145/3243734.3243838)]|HW5: ThriLLVM Debloater|
-|14|[New Wave in Language-based Security (3):<br>Program Synthesis](slides/lecture14.pdf)|[[Book](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf)], [[PLDI18](https://dl.acm.org/doi/10.1145/3296979.3192410)], [[IJCAI19](https://www.ijcai.org/Proceedings/2019/0847.pdf)]|HW6: SmaLLVM Synthesizer|
-|-|Project Presentation (6/17, 6/22, 6/24)||
 |-|Final Exam||
