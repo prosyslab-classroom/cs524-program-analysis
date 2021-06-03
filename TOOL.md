@@ -27,3 +27,5 @@ Students will use the [OCaml](https://ocaml.org) programming language for the so
 Students will use the [LLVM](https://llvm.org) infrastructure and implement various tools that analyze programs written in LLVM IR code.
 LLVM IR code can be generated from many source languages such as C/C++/Obj-C, Swift, Rust, Scala, Haskell, WebAssembly, etc.
 For more details of LLVM, see this [document](https://llvm.org/docs).
+
+Students are highly recommended to read [the LLVM primer](https://github.com/prosyslab-classroom/llvm-primer).
