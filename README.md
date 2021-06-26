@@ -2,15 +2,20 @@
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
-- TAs:
+- TAs: [Hyunsu Kim](https://prosys.kaist.ac.kr/home/hyunsukim) (hyunsu.kim00@kaist.ac.kr) and [Wooseok Kang](https://prosys.kaist.ac.kr/home/wooseokkang) (kangwoosoekeq@kaist.ac.kr)
 - Time: Mon/Wed 09:00 - 10:30
 - Office hour: Mon 10:30 - 11:30, N5 #2321
 - Location:
 
 ## Course Description
+"How to estimate the behavior of a program before it runs?"
+
+This course introduces program analysis that answers the question.
+Program analysis is a technique to statically estimates runtime behaviors of programs.
+The course will cover fundamentals of program analysis including formal semantics of programming languages and
+the theory of abstract interpretation.
 
 ## Grading
-
 ## Textbook
 - Lecture slides will be provided
 - Xavier Rival and Kwangkeun Yi, [Introduction to Static Analysis: an Abstract Interpretation Perspective](https://mitpress.mit.edu/books/introduction-static-analysis), MIT Press, 2020
