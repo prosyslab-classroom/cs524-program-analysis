@@ -7,7 +7,7 @@ update-alternatives --remove-all clang
 # exit on first error
 set -e
 
-VERSION=9
+VERSION=10
 
 # install
 apt install -y libllvm-$VERSION-ocaml-dev libllvm8 llvm-$VERSION llvm-$VERSION-dev llvm-$VERSION-doc llvm-$VERSION-examples llvm-$VERSION-runtime
