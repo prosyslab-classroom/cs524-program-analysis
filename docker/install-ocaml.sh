@@ -7,5 +7,4 @@ OPAMYES=1
 opam init --compiler=$OCAML_VERSION --disable-sandboxing && \
   opam switch create $OPAM_SWITCH $OCAML_VERSION && \
   eval $(opam env) && \
-  opam install dune llvm.10.0.0 ounit
-
+  opam install utop dune llvm.10.0.0 ounit
