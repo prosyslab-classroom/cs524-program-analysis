@@ -13,13 +13,14 @@ RUN useradd -ms /bin/bash student
 ENV SCRIPT=$HOME/script
 RUN mkdir -p $SCRIPT
 COPY install-llvm-toolchain.sh $SCRIPT
-COPY install-ocaml.sh $SCRIPT
 RUN $SCRIPT/install-llvm-toolchain.sh
-RUN $SCRIPT/install-ocaml.sh
 
-RUN echo "$(opam env)" >> ~/.bashrc
 RUN sudo adduser student sudo
 RUN echo "root:1234" | chpasswd
 RUN echo "student:1234" | chpasswd
 USER student
+
+COPY install-ocaml.sh $SCRIPT
+RUN $SCRIPT/install-ocaml.sh
+
 WORKDIR $HOME
