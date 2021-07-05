@@ -16,6 +16,10 @@ The course will cover fundamental theories, designs and implementations of progr
 the theory of abstract interpretation.
 
 ## Grading
+- Homework 50%
+- Final exam 40%
+- Participation 10%
+
 ## Textbook
 - Lecture slides will be provided
 - Xavier Rival and Kwangkeun Yi, [Introduction to Static Analysis: an Abstract Interpretation Perspective](https://mitpress.mit.edu/books/introduction-static-analysis), MIT Press, 2020
