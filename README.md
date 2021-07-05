@@ -62,5 +62,5 @@ Students who violates academic integrity will get an F.
 |12|Specialized frameworks (1):<br>Static Analysis by Equations|[Chap. 10.1]||
 |13|Specialized frameworks (2):<br>Static Analysis by Monotonic Closure|[Chap. 10.2]||
 |14|Specialized frameworks (3):<br>Static Analysis by Proof Construction|[Chap. 10.3]||
-|15|[Program Analysis with AI]|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
+|15|Program Analysis with AI|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
 |-|Final Exam||
