@@ -51,10 +51,13 @@ Students who violates academic integrity will get an F.
 |5|[Abstract Interpretation](slides/lecture5.pdf)|[Chap. 3]|
 |6|[Design and Implementation of Static Analysis](slides/lecture6.pdf)|[Chap. 4]|HW3: SmaLLVM Analyzer|
 |7|[Static Analysis for Advanced Programming Features](slides/lecture7.pdf)|[Chap. 8.1], [Chap. 8.2]|
-|-|<s>Midterm Exam</s>||HW4 : ThriLLVM Analyzer|
+|-|Midterm Exam||HW4 : ThriLLVM Analyzer|
 |8|[Advanced Static Analysis Techniques (1):<br>Iteration Techniques](slides/lecture8.pdf)|[Chap. 5.2]|
 |9|[Advanced Static Analysis Techniques (2):<br>Sparse Analysis](slides/lecture9.pdf)|[Chap. 5.3], [[PLDI12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)]|
 |10|[Advanced Static Analysis Techniques (3):<br>Selective X-sensitivity](slides/lecture10.pdf)|[[PLDI14](https://dl.acm.org/doi/10.1145/2594291.2594318)]||
 |11|[Advanced Static Analysis Techniques (4):<br>Modular Analysis](slides/lecture11.pdf)|[Chap. 5.4], [[InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)]|
-|12|[New Wave in Language-based Security (1):<br>Program Analysis with AI](slides/lecture12.pdf)|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
+|12|Specialized frameworks (1):<br>Static Analysis by Equations|[Chap. 10.1]||
+|13|Specialized frameworks (1):<br>Static Analysis by Monotonic Closure|[Chap. 10.2]||
+|14|Specialized frameworks (1):<br>Static Analysis by Proof Construction|[Chap. 10.3]||
+|15|[Program Analysis with AI]|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
 |-|Final Exam||
