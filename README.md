@@ -10,9 +10,9 @@
 ## Course Description
 "How to estimate the behavior of a program before it runs?"
 
-This course introduces program analysis that answers the question.
-Program analysis is a technique to statically estimates runtime behaviors of programs.
-The course will cover fundamentals of program analysis including formal semantics of programming languages and
+This course introduces a technique called program analysis that answers the question.
+Instead of running programs with potentially infinite inputs, program analysis statically estimates runtime behaviors of programs within a finite time.
+The course will cover fundamental theories, designs and implementations of program analysis including formal semantics of programming languages and
 the theory of abstract interpretation.
 
 ## Grading
