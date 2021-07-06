@@ -5,7 +5,7 @@
 - TAs: [Hyunsu Kim](https://prosys.kaist.ac.kr/home/hyunsukim) (hyunsu.kim00@kaist.ac.kr) and [Wooseok Kang](https://prosys.kaist.ac.kr/home/wooseokkang) (kangwoosoekeq@kaist.ac.kr)
 - Time: Mon/Wed 09:00 - 10:30
 - Office hour: Mon 10:30 - 11:30, N5 #2321
-- Location:
+- Location: Zoom
 
 ## Course Description
 "How to estimate the behavior of a program before it runs?"
@@ -54,8 +54,8 @@ Students who violates academic integrity will get an F.
 |4|[Concepts in Program Analysis](slides/lecture4.pdf)|[Chap. 2], [Chap. 9]|HW2: SmaLLVM Interpreter|
 |5|[Abstract Interpretation](slides/lecture5.pdf)|[Chap. 3]|
 |6|[Design and Implementation of Static Analysis](slides/lecture6.pdf)|[Chap. 4]|HW3: SmaLLVM Analyzer|
-|7|[Static Analysis for Advanced Programming Features](slides/lecture7.pdf)|[Chap. 8.1], [Chap. 8.2]|HW4 : ThriLLVM Analyzer|
-|8|[Advanced Static Analysis Techniques (1):<br>Iteration Techniques](slides/lecture8.pdf)|[Chap. 5.2]|
+|7|[Static Analysis for Advanced Programming Features](slides/lecture7.pdf)|[Chap. 8.1], [Chap. 8.2]||
+|8|[Advanced Static Analysis Techniques (1):<br>Iteration Techniques](slides/lecture8.pdf)|[Chap. 5.2]HW4 : ThriLLVM Analyzer|
 |9|[Advanced Static Analysis Techniques (2):<br>Sparse Analysis](slides/lecture9.pdf)|[Chap. 5.3], [[PLDI12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)]|
 |10|[Advanced Static Analysis Techniques (3):<br>Selective X-sensitivity](slides/lecture10.pdf)|[[PLDI14](https://dl.acm.org/doi/10.1145/2594291.2594318)]||
 |11|[Advanced Static Analysis Techniques (4):<br>Modular Analysis](slides/lecture11.pdf)|[Chap. 5.4], [[InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)]|
