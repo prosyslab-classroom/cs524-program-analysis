@@ -48,8 +48,8 @@ Students who violates academic integrity will get an F.
 |#|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||
-|1|[Introduction](slides/lecture1.pdf) [<img src="icons/youtube.png" width="16" />](https://youtu.be/gyj4fhyJPS0) |[Chap. 1]|<img src="icons/github-classroom.png" width="16" /> HW0: Hello-world|
-|2|[Operational Semantics](slides/lecture2.pdf) [<img src="icons/youtube.png" width="16" />](https://youtu.be/q1k_sxs3Q9c)||<img src="icons/github-classroom.png" width="16" /> HW1: OCaml Programming|
+|1|[Introduction](slides/lecture1.pdf)|[Chap. 1]|<img src="icons/github-classroom.png" width="16" /> HW0: Hello-world|
+|2|[Operational Semantics](slides/lecture2.pdf)||<img src="icons/github-classroom.png" width="16" /> HW1: OCaml Programming|
 |3|[Denotational Semantics](slides/lecture3.pdf)|||
 |4|[Concepts in Program Analysis](slides/lecture4.pdf)|[Chap. 2], [Chap. 9]|<img src="icons/github-classroom.png" width="16" /> HW2: SmaLLVM Interpreter|
 |5|[Abstract Interpretation](slides/lecture5.pdf)|[Chap. 3]|
