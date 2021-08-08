@@ -48,19 +48,19 @@ Students who violates academic integrity will get an F.
 |#|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||
-|1|[Introduction](slides/lecture1.pdf) [<img src="icons/youtube.png" width="16" />](https://youtu.be/gyj4fhyJPS0) |[Chap. 1]|HW0: Hello-world|
-|2|[Operational Semantics](slides/lecture2.pdf) [<img src="icons/youtube.png" width="16" />](https://youtu.be/q1k_sxs3Q9c)||HW1: OCaml Programming|
+|1|[Introduction](slides/lecture1.pdf) [<img src="icons/youtube.png" width="16" />](https://youtu.be/gyj4fhyJPS0) |[Chap. 1]|<img src="icons/github-classroom.png" width="16" /> HW0: Hello-world|
+|2|[Operational Semantics](slides/lecture2.pdf) [<img src="icons/youtube.png" width="16" />](https://youtu.be/q1k_sxs3Q9c)||<img src="icons/github-classroom.png" width="16" /> HW1: OCaml Programming|
 |3|[Denotational Semantics](slides/lecture3.pdf)|||
-|4|[Concepts in Program Analysis](slides/lecture4.pdf)|[Chap. 2], [Chap. 9]|HW2: SmaLLVM Interpreter|
+|4|[Concepts in Program Analysis](slides/lecture4.pdf)|[Chap. 2], [Chap. 9]|<img src="icons/github-classroom.png" width="16" /> HW2: SmaLLVM Interpreter|
 |5|[Abstract Interpretation](slides/lecture5.pdf)|[Chap. 3]|
-|6|[Design and Implementation of Static Analysis](slides/lecture6.pdf)|[Chap. 4]|HW3: SmaLLVM Analyzer|
+|6|[Design and Implementation of Static Analysis](slides/lecture6.pdf)|[Chap. 4]|<img src="icons/github-classroom.png" width="16" /> HW3: SmaLLVM Analyzer|
 |7|[Static Analysis for Advanced Programming Features](slides/lecture7.pdf)|[Chap. 8.1], [Chap. 8.2]||
-|8|[Advanced Static Analysis Techniques (1):<br>Iteration Techniques](slides/lecture8.pdf)|[Chap. 5.2]|HW4 : ThriLLVM Analyzer|
+|8|[Advanced Static Analysis Techniques (1):<br>Iteration Techniques](slides/lecture8.pdf)|[Chap. 5.2]|<img src="icons/github-classroom.png" width="16" /> HW4 : ThriLLVM Analyzer|
 |9|[Advanced Static Analysis Techniques (2):<br>Sparse Analysis](slides/lecture9.pdf)|[Chap. 5.3], [[PLDI12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)]|
 |10|[Advanced Static Analysis Techniques (3):<br>Selective X-sensitivity](slides/lecture10.pdf)|[[PLDI14](https://dl.acm.org/doi/10.1145/2594291.2594318)]||
 |11|[Advanced Static Analysis Techniques (4):<br>Modular Analysis](slides/lecture11.pdf)|[Chap. 5.4], [[InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)]|
 |12|Specialized frameworks (1):<br>Static Analysis by Equations|[Chap. 10.1]||
-|13|Specialized frameworks (2):<br>Static Analysis by Monotonic Closure|[Chap. 10.2]||
-|14|Specialized frameworks (3):<br>Static Analysis by Proof Construction|[Chap. 10.3]||
+|13|Specialized frameworks (2):<br>Static Analysis by Monotonic Closure|[Chap. 10.2]|<img src="icons/github-classroom.png" width="16" /> HW5: SmaLLVM Constraint-based analyzer|
+|14|Specialized frameworks (3):<br>Static Analysis by Proof Construction|[Chap. 10.3]|<img src="icons/github-classroom.png" width="16" /> HW6: SmaLLVM Type Checker|
 |15|Program Analysis with AI|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
 |-|Final Exam||
