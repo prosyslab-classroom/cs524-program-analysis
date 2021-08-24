@@ -2,7 +2,7 @@
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
-- TAs: [Hyunsu Kim](https://prosys.kaist.ac.kr/home/hyunsukim) (hyunsu.kim00@kaist.ac.kr) and [Wooseok Kang](https://prosys.kaist.ac.kr/home/wooseokkang) (kangwoosoekeq@kaist.ac.kr)
+- TAs: [Hyunsu Kim](https://prosys.kaist.ac.kr/home/hyunsukim) (hyunsu.kim00@kaist.ac.kr) and [Wooseok Kang](https://prosys.kaist.ac.kr/home/wooseokkang) (kangwooseokeq@kaist.ac.kr)
 - Time: Mon/Wed 09:00 - 10:30
 - Office hour: Mon 10:30 - 11:30, N5 #2321
 - Location: Zoom
