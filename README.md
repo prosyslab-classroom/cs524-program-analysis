@@ -6,8 +6,11 @@
   - [Hyunsu Kim](https://prosys.kaist.ac.kr/home/hyunsukim) (hyunsu.kim00@kaist.ac.kr)
   - [Wooseok Kang](https://prosys.kaist.ac.kr/home/wooseokkang) (kangwooseokeq@kaist.ac.kr)
 - Time: Mon/Wed 09:00 - 10:30
-- Office hour: Mon 10:30 - 11:30 at Zoom (by appointment)
 - Location: Zoom
+- Office hour: Zoom (by appointment)
+  - Instructor: Mon 10:30 - 11:30
+  - TAs: Tue 17:00 - 18:00
+
 
 ## Course Description
 "How to estimate the behavior of a program before it runs?"
