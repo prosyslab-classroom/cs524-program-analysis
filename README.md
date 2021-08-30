@@ -44,8 +44,6 @@ The late homework policy is as follows:
 - 50% credit for two days late
 - NO credit given after two days late
 
-## Project
-
 ## Academic Integrity Violation
 Students who violates academic integrity will get an F.
 
