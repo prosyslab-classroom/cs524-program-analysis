@@ -53,7 +53,7 @@ Students who violates academic integrity will get an F.
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||
 |1|[Introduction](slides/lecture1.pdf)|[Chap. 1]|<img src="icons/github-classroom.png" width="16" /> HW0: Hello-world|
 |2|[Operational Semantics](slides/lecture2.pdf)||<img src="icons/github-classroom.png" width="16" /> HW1: OCaml Programming|
-|3|Denotational Semantics|||
+|3|[Denotational Semantics](slides/lecture3.pdf)|||
 |4|Concepts in Program Analysis|[Chap. 2], [Chap. 9]|<img src="icons/github-classroom.png" width="16" /> HW2: SmaLLVM Interpreter|
 |5|Abstract Interpretation|[Chap. 3]|
 |6|Design and Implementation of Static Analysis|[Chap. 4]|<img src="icons/github-classroom.png" width="16" /> HW3: SmaLLVM Analyzer|
