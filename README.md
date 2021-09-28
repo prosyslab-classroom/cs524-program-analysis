@@ -55,7 +55,7 @@ Students who violates academic integrity will get an F.
 |2|[Operational Semantics](slides/lecture2.pdf)||<img src="icons/github-classroom.png" width="16" /> HW1: OCaml Programming|
 |3|[Denotational Semantics](slides/lecture3.pdf)|||
 |4|[Concepts in Program Analysis](slides/lecture4.pdf)|[Chap. 2], [Chap. 9]|<img src="icons/github-classroom.png" width="16" /> HW2: SmaLLVM Interpreter|
-|5|Abstract Interpretation|[Chap. 3]|
+|5|[Abstract Interpretation](slides/lecture5.pdf)|[Chap. 3]|
 |6|Design and Implementation of Static Analysis|[Chap. 4]|<img src="icons/github-classroom.png" width="16" /> HW3: SmaLLVM Analyzer|
 |7|Static Analysis for Advanced Programming Features|[Chap. 8.1], [Chap. 8.2]||
 |8|Advanced Static Analysis Techniques (1):<br>Iteration Techniques|[Chap. 5.2]|<img src="icons/github-classroom.png" width="16" /> HW4 : ThriLLVM Analyzer|
