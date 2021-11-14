@@ -61,7 +61,7 @@ Students who violates academic integrity will get an F.
 |8|[Design and Implementation of Static Analysis](slides/lecture8.pdf)|[Chap. 4]|<img src="icons/github-classroom.png" width="16" /> HW4: SmaLLVM Analyzer|
 |9|[Static Analysis for Advanced Programming Features](slides/lecture9.pdf)|[Chap. 8.1], [Chap. 8.2]||
 |10|[Advanced Static Analysis Techniques (1):<br>Iteration Techniques](slides/lecture10.pdf)|[Chap. 5.2]|<img src="icons/github-classroom.png" width="16" /> HW5 : ThriLLVM Analyzer|
-|11|Advanced Static Analysis Techniques (2):<br>Sparse Analysis|[Chap. 5.3], [[PLDI12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)]|
+|11|[Advanced Static Analysis Techniques (2):<br>Sparse Analysis](slides/lecture11.pdf)|[Chap. 5.3], [[PLDI12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)]|
 |12|Advanced Static Analysis Techniques (3):<br>Selective X-sensitivity|[[PLDI14](https://dl.acm.org/doi/10.1145/2594291.2594318)]||
 |13|Advanced Static Analysis Techniques (4):<br>Modular Analysis|[Chap. 5.4], [[InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)]|
 |14|Specialized frameworks (1):<br>Static Analysis by Equations|[Chap. 10.1]||
