@@ -1,4 +1,4 @@
-# CS592: Introduction to Program Analysis
+# CS524: Program Analysis
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
