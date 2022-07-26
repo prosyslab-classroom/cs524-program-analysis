@@ -1,9 +1,8 @@
 # Tools
 
 ## Git, Github, and Github Classroom
-We will use Github/Github Classroom to provide assignment templates and manage submissions.
-Make sure you have a Github account and get the [student developer pack benefits](https://education.github.com/pack).
-Moreover, student should get familiar with `git`.
+We will use Github / Github Classroom to provide assignment templates and manage submissions.
+Make sure you get familiar with `git`.
 If you are new to `git`, see this [book](https://git-scm.com/book/en/v2).
 
 ## OCaml
