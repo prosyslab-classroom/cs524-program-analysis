@@ -68,3 +68,9 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |16|[Specialized frameworks (3):<br>Static Analysis by Proof Construction](slides/lecture16.pdf)|Chap. 10.3|<img src="icons/github-classroom.png" width="16" /> HW7: SmaLLVM Type Checker|
 |17|[Program Analysis with AI](slides/lecture17.pdf)|[PLDI'18](https://dl.acm.org/doi/10.1145/3192366.3192417), [PLDI'19](https://dl.acm.org/doi/10.1145/3314221.3314616), [ICSE'19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)|
 |-|Final Exam||
+
+## Hall of Fame
+Have fun reading the distinguished essays from previous semesters.
+- [RC: Scaling Static Analyses at Facebook](essay/junghyun.pdf)
+- [Scale, The Missing Link from Academia to Industry](essay/taeeun.pdf)
+- [프로그램 분석과 죽음의 성물](essay/three.pdf)
