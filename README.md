@@ -26,7 +26,7 @@ the theory of abstract interpretation.
 
 ## Textbook
 - Lecture slides will be provided
-- Xavier Rival and Kwangkeun Yi, [Introduction to Static Analysis: an Abstract Interpretation Perspective](https://mitpress.mit.edu/books/introduction-static-analysis), MIT Press, 2020
+- Xavier Rival and Kwangkeun Yi, [Introduction to Static Analysis: an Abstract Interpretation Perspective](https://mitpress.mit.edu/9780262043410/introduction-to-static-analysis/), MIT Press, 2020
 
 ## Homework
 This course includes programming assignments through which students will learn how to design
