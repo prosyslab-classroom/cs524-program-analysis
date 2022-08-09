@@ -36,7 +36,7 @@ Students will use a few tools which are described [here](TOOL.md).
 All submissions will be managed using Github.
 For each assignment, a unique invitation URL for Github Classroom will be posted in the [issue board](../../issues).
 Once you accept the invitation, a private repository for your assignment will be created.
-You can push as many commits as you want before the deadline. We will grade the final commit of your `master` branch.
+You can push as many commits as you want before the deadline. We will grade the final commit of your `main` branch.
 
 The late homework policy is as follows:
 - 80% credit for one day late
