@@ -3,7 +3,7 @@
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
 - TAs (mailing list: cs524.ta@prosys.kr)
-  - Taeeun Kim (taeeun.kim@kaist.ac.kr)
+  - [Tae Eun Kim](https://goodtaeeun.github.io) (taeeun.kim@kaist.ac.kr)
   - Jongchan Park (jongchan.park@kaist.ac.kr)
 - Time: Mon/Wed 09:00 - 10:30
 - Location: E3 2443
