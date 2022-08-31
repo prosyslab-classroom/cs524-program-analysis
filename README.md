@@ -9,7 +9,7 @@
 - Location: E3 2443
 - Office hour:
   - Instructor: Mon 10:30 - 11:30
-  - TAs: Fri 16:00 - 17:00
+  - TAs: Wed 15:00 - 16:00
 
 ## Course Description
 "How to estimate the behavior of a program before it runs?"
