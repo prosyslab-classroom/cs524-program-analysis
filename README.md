@@ -55,8 +55,8 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |3|[Denotational Semantics](slides/lecture3.pdf)|<img src="icons/youtube.png" width="16" /> Undecidability [<img src="icons/kor.png" width="16" />](https://youtu.be/oippSXvxUlw) [<img src="icons/eng.png" width="16" />](https://www.youtube.com/watch?v=HeQX2HjkcNo&t=2)||
 |4|[Concepts in Program Analysis](slides/lecture4.pdf)|Chap. 2, Chap. 9|<img src="icons/github-classroom.png" width="16" /> HW2: SmaLLVM Interpreter|
 |5|[Abstract Interpretation (1): Concrete Semantics](slides/lecture5.pdf)|Chap. 3|
-|6|[Abstract Interpretation (2): Abstract Semantics](slides/lecture6.pdf)|Chap. 3|
-|7|[Abstract Interpretation (3): Wideining and Narrowing](slides/lecture7.pdf)|Chap. 3|<img src="icons/github-classroom.png" width="16" /> HW3: Abstract Interpretation|
+|6|[Abstract Interpretation (2): Abstract Semantics](slides/lecture6.pdf)|Chap. 3|<img src="icons/github-classroom.png" width="16" /> HW3: Abstract Interpretation|
+|7|[Abstract Interpretation (3): Wideining and Narrowing](slides/lecture7.pdf)|Chap. 3||
 |8|[Design and Implementation of Static Analysis](slides/lecture8.pdf)|Chap. 4|<img src="icons/github-classroom.png" width="16" /> HW4: SmaLLVM Analyzer|
 |9|[Static Analysis for Advanced Programming Features](slides/lecture9.pdf)|Chap. 8.1, Chap. 8.2||
 |10|[Advanced Static Analysis Techniques (1):<br>Iteration Techniques](slides/lecture10.pdf)|Chap. 5.2|<img src="icons/github-classroom.png" width="16" /> HW5 : ThriLLVM Analyzer|
