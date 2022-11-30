@@ -70,7 +70,4 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |-|Final Exam||
 
 ## Hall of Fame
-Have fun reading the distinguished essays from previous semesters.
-- [RC: Scaling Static Analyses at Facebook](essay/junghyun.pdf)
-- [Scale, The Missing Link from Academia to Industry](essay/taeeun.pdf)
-- [프로그램 분석과 죽음의 성물](essay/three.pdf)
+Have fun with student artifacts from previous semesters [here](hof.md) (distinguished essays, drawings, etc).
