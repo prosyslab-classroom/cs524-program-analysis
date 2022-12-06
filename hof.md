@@ -7,7 +7,7 @@
 |[![Abstract interpretaion](https://user-images.githubusercontent.com/17640199/203905663-6badba15-0bb9-4204-acf5-bb0fe4077020.png)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/98)Abstract interpretaion <br>by [yeonhee-ryou](https://api.github.com/users/yeonhee-ryou)|[![Abstract Interpretation](https://user-images.githubusercontent.com/99390261/203887184-e508b06a-8fae-44ca-a468-64122e6f1568.png)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/97)Abstract Interpretation :3rd_place_medal:<br>by [PSuHyeon](https://api.github.com/users/PSuHyeon)|[![Program analysis](https://user-images.githubusercontent.com/68288688/202062746-6663c385-dcac-4560-8c75-8b04b3818b17.png)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/89)Program analysis :3rd_place_medal:<br>by [p51lee](https://api.github.com/users/p51lee)|[![Galois Connection](https://user-images.githubusercontent.com/37728816/198923130-38c837a4-a4f4-46ec-9906-489340a65884.png)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/80)Galois Connection :1st_place_medal:<br>by [3-24](https://api.github.com/users/3-24)|[![Computing least upper bound](https://user-images.githubusercontent.com/1281633/198815420-879efcec-5638-40e4-8769-61db50ae88aa.png)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/79)Computing least upper bound <br>by [KihongHeo](https://api.github.com/users/KihongHeo)|
 #### Essay
 - [이데아를 향한 노력 - Jaeho Kim (김재호)](essay/2022-jaeho.pdf)
-
+- [코드의 바다에서 정적 분석이라는 등대를 찾다 - Yewon Choi (최예원)](essay/2022-choiyewon.pdf)
 ## 2021 Fall
 #### Essay
 - [RC: Scaling Static Analyses at Facebook](essay/junghyun.pdf)
