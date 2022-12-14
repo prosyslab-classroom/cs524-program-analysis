@@ -71,3 +71,7 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 
 ## Hall of Fame
 Have fun with student artifacts from previous semesters [here](hof.md) (distinguished essays, drawings, etc).
+
+## References
+- [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
+- [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
