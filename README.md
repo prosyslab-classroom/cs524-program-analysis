@@ -47,7 +47,7 @@ The late homework policy is as follows:
 Students who violate academic integrity will get F. See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
 
 ## Schedule
-|#|Topics|Reference|Homework|
+|#|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" /> HW0: Hello-world, OCaml Programming|
 |1|[Introduction](slides/lecture1.pdf)|Chap. 1||
