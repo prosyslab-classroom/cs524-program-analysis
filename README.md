@@ -59,13 +59,13 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |7|[Abstract Interpretation (3): Wideining and Narrowing](slides/lecture7.pdf)|Chap. 3||
 |8|[Design and Implementation of Static Analysis](slides/lecture8.pdf)|Chap. 4|<img src="icons/github-classroom.png" width="16" /> HW4: SmaLLVM Analyzer|
 |9|[Static Analysis for Advanced Programming Features](slides/lecture9.pdf)|Chap. 8.1, Chap. 8.2||
-|10|[Advanced Static Analysis Techniques (1):<br>Iteration Techniques](slides/lecture10.pdf)|Chap. 5.2|<img src="icons/github-classroom.png" width="16" /> HW5 : ThriLLVM Analyzer|
-|11|[Advanced Static Analysis Techniques (2):<br>Sparse Analysis](slides/lecture11.pdf)|Chap. 5.3, [PLDI'12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)|
-|12|[Advanced Static Analysis Techniques (3):<br>Selective X-sensitivity](slides/lecture12.pdf)|[PLDI'14](https://dl.acm.org/doi/10.1145/2594291.2594318)||
-|13|[Advanced Static Analysis Techniques (4):<br>Modular Analysis](slides/lecture13.pdf)|Chap. 5.4, [InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)|
-|14|[Specialized frameworks (1):<br>Static Analysis by Equations](slides/lecture14.pdf)|Chap. 10.1||
-|15|[Specialized frameworks (2):<br>Static Analysis by Monotonic Closure](slides/lecture15.pdf)|Chap. 10.2|<img src="icons/github-classroom.png" width="16" /> HW6: SmaLLVM Constraint-based analyzer|
-|16|[Specialized frameworks (3):<br>Static Analysis by Proof Construction](slides/lecture16.pdf)|Chap. 10.3|<img src="icons/github-classroom.png" width="16" /> HW7: SmaLLVM Type Checker|
+|10|[Advanced Static Analysis Techniques (1): Iteration Techniques](slides/lecture10.pdf)|Chap. 5.2|<img src="icons/github-classroom.png" width="16" /> HW5 : ThriLLVM Analyzer|
+|11|[Advanced Static Analysis Techniques (2): Sparse Analysis](slides/lecture11.pdf)|Chap. 5.3, [PLDI'12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)|
+|12|[Advanced Static Analysis Techniques (3): Selective X-sensitivity](slides/lecture12.pdf)|[PLDI'14](https://dl.acm.org/doi/10.1145/2594291.2594318)||
+|13|[Advanced Static Analysis Techniques (4): Modular Analysis](slides/lecture13.pdf)|Chap. 5.4, [InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)|
+|14|[Specialized frameworks (1): Static Analysis by Equations](slides/lecture14.pdf)|Chap. 10.1||
+|15|[Specialized frameworks (2): Static Analysis by Monotonic Closure](slides/lecture15.pdf)|Chap. 10.2|<img src="icons/github-classroom.png" width="16" /> HW6: SmaLLVM Constraint-based analyzer|
+|16|[Specialized frameworks (3): Static Analysis by Proof Construction](slides/lecture16.pdf)|Chap. 10.3|<img src="icons/github-classroom.png" width="16" /> HW7: SmaLLVM Type Checker|
 |17|[Program Analysis with AI](slides/lecture17.pdf)|[PLDI'18](https://dl.acm.org/doi/10.1145/3192366.3192417), [PLDI'19](https://dl.acm.org/doi/10.1145/3314221.3314616), [ICSE'19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027), [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|
 |-|Final Exam||
 
