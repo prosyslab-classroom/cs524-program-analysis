@@ -1,4 +1,6 @@
 # CS524: Program Analysis (프로그램 분석)
+## Notice for Fall 2023
+This course is offered as IS593 (Language-based Security) in Fall 2023. 
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
