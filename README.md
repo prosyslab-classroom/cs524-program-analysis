@@ -1,13 +1,13 @@
 # CS524: Program Analysis (프로그램 분석)
 
 ## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
-- TAs (mailing list: cs524.ta@prosys.kr)
-  - [Tae Eun Kim](https://goodtaeeun.github.io) (taeeun.kim@kaist.ac.kr)
-  - [Jongchan Park](https://kaist-jongchanpark.github.io) (jongchan.park@kaist.ac.kr)
+- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
+- TAs (mailing list: cs524.ta@prosys.kaist.ac.kr)
+  - [Yeonhee Ryou](https://yeonhee-ryou.github.io) (류연희)
+  - [Jaeseong Kwon](https://doitman.kr) (권재성)
 - Time: Mon/Wed 09:00 - 10:30
-- Location: E3 2443
-- Office hour:
+- Location: N5 2243
+- Office hours:
   - Instructor: Mon 10:30 - 11:30
   - TAs: Wed 15:00 - 16:00
 
@@ -15,8 +15,8 @@
 "How to estimate the behavior of a program before it runs?"
 
 This course introduces a technique called program analysis that answers the question.
-Instead of running programs with potentially infinite inputs, program analysis statically estimates runtime behaviors of programs within a finite time.
-The course will cover fundamental theories, designs and implementations of program analysis including formal semantics of programming languages and
+Instead of running programs with potentially infinite inputs, program analysis statically estimates the runtime behaviors of programs within a finite time.
+The course will cover fundamental theories, designs, and implementations of program analysis including formal semantics of programming languages and
 the theory of abstract interpretation.
 
 ## Grading
@@ -34,7 +34,7 @@ and implement program analyzers.
 Students will use a few tools which are described [here](TOOL.md).
 
 All submissions will be managed using Github.
-For each assignment, a unique invitation URL for Github Classroom will be posted in the [issue board](../../issues).
+For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [issue board](../../issues).
 Once you accept the invitation, a private repository for your assignment will be created.
 You can push as many commits as you want before the deadline. We will grade the final commit of your `main` branch.
 
