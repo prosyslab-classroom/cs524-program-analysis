@@ -11,7 +11,7 @@ This course is offered as IS593 (Language-based Security) in Fall 2023.
 - Location: N5 2243
 - Office hours:
   - Instructor: Mon 10:30 - 11:30
-  - TAs: Wed 15:00 - 16:00
+  - TAs: Wed 10:30 - 11:30
 
 ## Course Description
 "How to estimate the behavior of a program before it runs?"
