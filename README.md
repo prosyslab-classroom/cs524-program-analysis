@@ -7,7 +7,7 @@ This course is offered as IS593 (Language-based Security) in Fall 2023.
 - TAs (mailing list: cs524.ta@prosys.kaist.ac.kr)
   - [Yeonhee Ryou](https://yeonhee-ryou.github.io) (류연희)
   - [Jaeseong Kwon](https://doitman.kr) (권재성)
-- Time: Mon/Wed 09:00 - 10:30
+- Time: Tue/Thr 09:00 - 10:30
 - Location: N5 2243
 - Office hours:
   - Instructor: Mon 10:30 - 11:30
