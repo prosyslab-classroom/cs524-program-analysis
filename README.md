@@ -76,4 +76,8 @@ Have fun with student artifacts from previous semesters [here](hof.md) (distingu
 
 ## References
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
-- [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
+- Static Analysis in the Real World
+  - [Lessons from Building Static Analysis Tools at Google](https://dl.acm.org/doi/10.1145/3188720), CACM 2018
+  - [Scaling Static Analysis at Facebook](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext), CACM 2019
+  - [Detect bugs early with the static analyzer](https://developer.apple.com/videos/play/wwdc2021/10202/), Apple WWDC 2021
+  - [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
