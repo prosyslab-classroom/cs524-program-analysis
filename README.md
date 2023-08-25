@@ -26,6 +26,8 @@ the theory of abstract interpretation.
 - Final exam 40%
 - Participation 10%
 
+This course does not allow for P/NR grading.
+
 ## Textbook
 - Lecture slides will be provided
 - Xavier Rival and Kwangkeun Yi, [Introduction to Static Analysis: an Abstract Interpretation Perspective](https://mitpress.mit.edu/9780262043410/introduction-to-static-analysis/), MIT Press, 2020
