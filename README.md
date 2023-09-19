@@ -55,7 +55,7 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" /> HW0: Hello-world, OCaml Programming|
 |1|[Introduction](slides/lecture1.pdf)|Chap. 1||
-|2|[Operational Semantics](slides/lecture2.pdf)|[CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext)|<img src="icons/github-classroom.png" width="16" /> HW1: Essay|
+|2|[Operational Semantics](slides/lecture2.pdf)|[CACM'18](https://dl.acm.org/doi/10.1145/3188720), [CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext), [WWDC'21](https://developer.apple.com/videos/play/wwdc2021/10202/)|<img src="icons/github-classroom.png" width="16" /> HW1: Essay|
 |3|[Denotational Semantics](slides/lecture3.pdf)|<img src="icons/youtube.png" width="16" /> Undecidability [<img src="icons/kor.png" width="16" />](https://youtu.be/oippSXvxUlw) [<img src="icons/eng.png" width="16" />](https://www.youtube.com/watch?v=HeQX2HjkcNo&t=2)||
 |4|[Concepts in Program Analysis](slides/lecture4.pdf)|Chap. 2, Chap. 9|<img src="icons/github-classroom.png" width="16" /> HW2: SmaLLVM Interpreter|
 |5|[Abstract Interpretation (1): Concrete Semantics](slides/lecture5.pdf)|Chap. 3|
