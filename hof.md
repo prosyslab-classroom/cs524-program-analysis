@@ -1,4 +1,11 @@
 # CS524 Hall of Fame
+## 2023 Fall
+#### Art Competition
+
+|[![precise approximation](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/59085158/61f192dd-c081-4ee9-a394-0477e0b1f886)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/150)precise approximation :2nd_place_medal:<br>by [doit-man](https://api.github.com/users/doit-man)|[![Taint Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/83571012/ca2ba6a9-a17b-4658-92c2-8ea2a12a6fed)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/149)Taint Analysis :3rd_place_medal:<br>by [spearo2](https://api.github.com/users/spearo2)|[![flow-sensitive analysis](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/79245586/ca864744-4f03-4c82-ad58-4421330107a0)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/148)flow-sensitive analysis :3rd_place_medal:<br>by [702fbtngus](https://api.github.com/users/702fbtngus)|[![k-CFA](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/63594364/d06401aa-bf9a-4599-936a-0b241cedfe04)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/147)k-CFA <br>by [iv-y](https://api.github.com/users/iv-y)|
+|:-:|:-:|:-:|:-:|
+|[![Type inference](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/63594364/ace0cc59-fea8-4c73-928a-374de21edfbc)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/146)Type inference :2nd_place_medal:<br>by [iv-y](https://api.github.com/users/iv-y)|[![safety & liveness property](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/69100141/d111bd5a-38b8-4567-b96b-bee298f76c44)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/142)safety & liveness property :1st_place_medal:<br>by [Yeonwoo-Nam](https://api.github.com/users/Yeonwoo-Nam)|[![Selective widening](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/42648067/4ddcf7cd-4b22-4d7c-a21d-ef1ab311a338)](https://github.com/prosyslab-classroom/cs524-program-analysis/issues/139)Selective widening <br>by [Re-st](https://api.github.com/users/Re-st)|
+
 ## 2022 Fall
 #### Art Competition
 
