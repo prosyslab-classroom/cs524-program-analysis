@@ -5,10 +5,9 @@ The students who have taken IS593 (Language-based Security) are not eligible to 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
 - TAs (mailing list: cs524.ta@prosys.kaist.ac.kr)
-  - [Yeonhee Ryou](https://yeonhee-ryou.github.io) (류연희)
-  - [Jaeseong Kwon](https://doitman.kr) (권재성)
-- Time: Tue/Thr 09:00 - 10:30
-- Location: N5 2243
+  - [Tae Eun Kim](https://goodtaeeun.github.io) (김태은)
+- Time: Mon/Wed 09:00 - 10:30
+- Location: N1 102
 - Office hours:
   - Instructor: Mon 10:30 - 11:30
   - TAs: Wed 10:30 - 11:30
