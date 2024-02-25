@@ -6,6 +6,7 @@ The students who have taken IS593 (Language-based Security) are not eligible to 
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
 - TAs (mailing list: cs524.ta@prosys.kaist.ac.kr)
   - [Tae Eun Kim](https://goodtaeeun.github.io) (김태은)
+  - Geon Park (박건)
 - Time: Mon/Wed 09:00 - 10:30
 - Location: N1 102
 - Office hours:
