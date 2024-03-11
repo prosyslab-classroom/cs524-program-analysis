@@ -1,4 +1,14 @@
 # CS524 Hall of Fame
+
+## 2024 Spring
+#### Essay
+- [An unused analyzer is as useful as a broken one - Andrea Lepori](essay/2024-andrealepori.pdf)
+- [인간의 불완전함과 정적분석의 미래 - ChanU Kang (강찬우)](essay/2024-chanukang.pdf)
+- [정적(靜的)이며 정적(情的)인 - Sehoon Kim (김세훈)](essay/2024-sehoonkim.pdf)
+- [정적 분석기를 믿고 따라와 - Minsol Park (박민솔)](essay/2024-minsolpark.pdf)
+- [쓸모있는 연구하기 - Dongjae Lee (이동재)](essay/2024-dongjaelee.pdf)
+- [개발자의 마음을 움직이는 공학 - Jae Hyun Lee (이재현)](essay/2024-jaehyunlee.pdf)
+
 ## 2023 Fall
 #### Art Competition
 
