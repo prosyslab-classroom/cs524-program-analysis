@@ -1,4 +1,3 @@
-labels: ["Art competition"]
 body:
   - type: markdown
     attributes:

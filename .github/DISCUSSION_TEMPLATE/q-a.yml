@@ -1,0 +1,20 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        - Please make sure your issue is not addressed in the [LLVM primer](https://github.com/prosyslab-classroom/llvm-primer) and previous (closed) issues.
+        - TAs will not help debugging your code.
+  - type: input
+    id: name
+    attributes:
+      label: Your Name
+      description: "Provide your Korean name as well (if you are a Korean)"
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: "Question"
+    validations:
+      required: true
