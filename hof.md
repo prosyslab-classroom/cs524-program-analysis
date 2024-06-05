@@ -14,6 +14,8 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[![Widening and Narrowing](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/15906121/73765932-9ccc-4374-ac74-3265f5eb2f51)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/433)Widening and Narrowing :1st_place_medal:<br>by [leehahoon](https://api.github.com/users/leehahoon)|[![Static Analysis Song](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/34697855/8e6af7c0-8597-42d0-9595-e22fd09b3b97)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/434)Static Analysis Song :1st_place_medal:<br>by [33577](https://api.github.com/users/33577)|[![Galois Connection](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/42976401/d0dfc9b2-4a09-43b2-800d-ceda52afe4f3)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/436)Galois Connection <br>by [GetRusty](https://api.github.com/users/GetRusty)|[![Memory update](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/14192966/53031393-dee7-4bc6-9a62-3324d9610133)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/437)Memory update <br>by [mindol](https://api.github.com/users/mindol)|[![Fixed Point Iteration](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/101983402/20e9a9fb-bacd-40ba-83c0-c08298fdf05c)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/438)Fixed Point Iteration <br>by [HoseongLee](https://api.github.com/users/HoseongLee)|
 
+**Award Session** : Checkout the photos [here](https://photos.app.goo.gl/cvTbyXPTL62zdKoY9)!!
+
 ## 2023 Fall
 #### Art Competition
 
