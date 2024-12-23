@@ -22,7 +22,7 @@ This course is a mutually shared subject with “IS525: Program Analysis”.
 학생들은 프로그래밍 언어의 의미를 엄밀히 정의하는 방법, 요약 해석 (abstract interpretation) 이론을 익히고
 실전에 적용 가능한 여러 기술을 직접 구현하게 될 것이다.
 
-본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용합니다.
+본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용한다.
 
 > "How to estimate the behavior of a program before it runs?"
 
