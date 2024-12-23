@@ -1,6 +1,7 @@
 # CS524: 프로그램 분석 (Program Analysis)
 ## 2025 봄학기 공지사항 Notice for Spring 2025
 본 수업은 "IS525: 프로그램 분석"과 상호 공유 과목으로서 함께 진행합니다.
+
 This course is a mutually shared subject with “IS525: Program Analysis”.
 
 ## 수업정보 Logistics
