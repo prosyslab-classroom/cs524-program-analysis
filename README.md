@@ -38,7 +38,7 @@ the theory of abstract interpretation.
 - 참여 Participation: 10%
   - 적극적인 참여로 본인이 배운 바를 [스스로 다채롭게 내뿜는](hof.md) 학생들을 위한 보상입니다.
   - This is for students who actively participate and express what they have learned [in a diverse way](hof.md).
-  - 매 수업시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 정량화 할 만큼 가치가 낮지 않기 때문입니다.
+  - 매 수업시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 수업에 오는 것은 기본이며, 정량화 할 만큼 가치가 낮지 않기 때문입니다.
   - I always look forward to seeing you in every class. [Attendance is not quantitatively assessed](https://prosys.kaist.ac.kr/attendance/) because it is too valuable to be reduced to a mere number.
 
 ## 교재 Textbook
@@ -63,6 +63,9 @@ BugSynth는 LLM과 프로그램 분석 기술을 활용하여 자연스럽고 �
 - 이틀 늦을 시 점수의 50%
 - 사흘 이상 늦을 시 0%
 
+모든 프로그래밍 과제는 값 중심 프로그래밍 [[1](http://kwangkeunyi.snu.ac.kr/~kwang/paper/maso/1.html),[2](https://csrc.kaist.ac.kr/blog/2020/08/12/바이너리-분석에-웬-fsharp/)]의 철학과 소프트웨어 개발의 기본 원칙을 따릅니다.
+이를 통해 프로그래밍의 즐거움과 고급 개발자의 소양을 함께 느끼게 됩니다.
+
 This course includes programming assignments through which students will learn how to design
 and implement program analyzers.
 Students will use tools described [here](TOOL.md).
@@ -79,6 +82,9 @@ The late homework policy is as follows:
 - 80% credit for one day late
 - 50% credit for two days late
 - NO credit given after two days late
+
+All programming assignments adhere to the philosophy of value-oriented programming [[1](http://kwangkeunyi.snu.ac.kr/~kwang/paper/maso/1.html),[2](https://csrc.kaist.ac.kr/blog/2020/08/12/바이너리-분석에-웬-fsharp/)] and the fundamental principles of software development.
+Through this approach, learners experience both the joy of programming and the refined skills of an advanced developer.
 
 ## 학문 윤리 Academic Integrity
 학문 윤리를 어긴 수강생은 F를 받습니다. 자세한 사항은 [KAIST 전산학부 명예규정](https://cs.kaist.ac.kr/content?menu=309)을 참고하십시오.
