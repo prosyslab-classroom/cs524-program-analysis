@@ -21,9 +21,14 @@ This course is a mutually shared subject with “IS525: Program Analysis”.
 무한히 많은 입력값을 하나하나 넣고 돌려보는 대신, 프로그램 분석 기술은 실행전 유한한 시간안에 프로그램의 동작을 예측한다.
 이 강의에서는 프로그램 분석을 위한 기초 이론, 분석기 설계와 구현을 다룰 것이다.
 학생들은 프로그래밍 언어의 의미를 엄밀히 정의하는 방법, 요약 해석 (abstract interpretation) 이론을 익히고
-실전에 적용 가능한 여러 기술을 직접 구현하게 될 것이다.
+실전에 적용 가능한 여러 응용 기술을 직접 구현하게 될 것이다.
+그리고 아래 문장의 참 뜻을 이해할 수 있을 것이다.
+
+> 요약(abstraction)의 목적은 모호해지는 것이 아니라 완벽하게 명료한 의미를 전할 수 있는 새로운 수준을 만들어 내는 것이다. - 다익스트라
 
 본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용한다.
+
+<br>
 
 > "How to estimate the behavior of a program before it runs?"
 
@@ -31,6 +36,8 @@ This course introduces a technique called program analysis that answers the ques
 Instead of running programs with potentially infinite inputs, program analysis statically estimates the runtime behaviors of programs within a finite time.
 The course will cover fundamental theories, designs, and implementations of program analysis including formal semantics of programming languages and
 the theory of abstract interpretation.
+Then, you will be able to grasp the true meaning of the following sentence.
+> The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. - Dijkstra
 
 ## 성적 Grading
 - 숙제 Homework: 50%
