@@ -26,7 +26,7 @@ This course is a mutually shared subject with “IS525: Program Analysis”.
 
 > 요약(abstraction)의 목적은 모호해지는 것이 아니라 완벽하게 명료한 의미를 전할 수 있는 새로운 수준을 만들어 내는 것이다. - 다익스트라
 
-본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용한다.
+본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용하여 [소박하게 지식을 전달한다](https://prosys.kaist.ac.kr/easy-word/).
 
 <br>
 
