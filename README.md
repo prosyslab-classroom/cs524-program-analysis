@@ -40,9 +40,9 @@ Then, you will be able to grasp the true meaning of the following sentence.
 > The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. - Dijkstra
 
 ## 성적 Grading
-- 숙제 Homework: 50%
+- 숙제 Homework: 40%
 - 기말고사 Final exam: 40%
-- 참여 Participation: 10%
+- 참여 Participation: 20%
   - 적극적인 참여로 본인이 배운 바를 [스스로 다채롭게 내뿜는](hof.md) 학생들을 위한 보상입니다.
   - This is for students who actively participate and express what they have learned [in a diverse way](hof.md).
   - 매 수업시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 수업에 오는 것은 기본이며, 정량화 할 만큼 가치가 낮지 않기 때문입니다.
