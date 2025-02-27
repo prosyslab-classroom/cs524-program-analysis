@@ -3,7 +3,8 @@ body:
     attributes:
       value: |
         - Please make sure your issue is not addressed in the [LLVM primer](https://github.com/prosyslab-classroom/llvm-primer) and previous (closed) issues.
-        - TAs will not help debugging your code.
+        - TAs will not help debug your code.
+        - 
   - type: input
     id: name
     attributes:
@@ -15,6 +16,6 @@ body:
     id: question
     attributes:
       label: Question
-      description: "Question"
+      description: "For Korean natives, please write in Korean and put the English version below."
     validations:
       required: true
