@@ -7,12 +7,13 @@ This course is a mutually shared subject with “IS525: Program Analysis”.
 ## 수업정보 Logistics
 - 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
 - 조교 TAs (mailing list: cs524.ta@prosys.kaist.ac.kr)
-  - TBA
+  - [Sujin Jang](https://prosys.kaist.ac.kr/home/sujinjang) (장수진)
+  - [Dongjae Lee](https://prosys.kaist.ac.kr/home/dongjaelee) (이동재)
 - 강의 시간 Time: 화/목 (Tue/Thu) 09:00 - 10:30
 - 장소 Location: N1 102
 - 면담 시간 Office hours:
-  - 교수 Instructor: 화/목 10:30 - 11:30
-  - 조교 TAs: TBA
+  - 교수 Instructor: 화/목 (Tue/Thu) 10:30 - 11:30
+  - 조교 TAs: 목 (Thu) 13:00 - 14:00
 
 ## 강의 소개 Course Description
 > "프로그램의 동작을 실행전에 미리 예측할 수 있는가?"
