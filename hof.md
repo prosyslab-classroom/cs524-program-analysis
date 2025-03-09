@@ -3,11 +3,11 @@
 ## 2024 Spring
 #### Essay
 - [An unused analyzer is as useful as a broken one - Andrea Lepori](essay/2024-andrealepori.pdf)
-- [인간의 불완전함과 정적분석의 미래 - ChanU Kang (강찬우)](essay/2024-chanukang.pdf)
-- [정적(靜的)이며 정적(情的)인 - Sehoon Kim (김세훈)](essay/2024-sehoonkim.pdf)
-- [정적 분석기를 믿고 따라와 - Minsol Park (박민솔)](essay/2024-minsolpark.pdf)
-- [쓸모있는 연구하기 - Dongjae Lee (이동재)](essay/2024-dongjaelee.pdf)
-- [개발자의 마음을 움직이는 공학 - Jae Hyun Lee (이재현)](essay/2024-jaehyunlee.pdf)
+- [인간의 불완전함과 정적분석의 미래 - 강찬우](essay/2024-chanukang.pdf)
+- [정적(靜的)이며 정적(情的)인 - 김세훈](essay/2024-sehoonkim.pdf)
+- [정적 분석기를 믿고 따라와 - 박민솔](essay/2024-minsolpark.pdf)
+- [쓸모있는 연구하기 - 이동재](essay/2024-dongjaelee.pdf)
+- [개발자의 마음을 움직이는 공학 - 이재현](essay/2024-jaehyunlee.pdf)
 
 #### Art Competition
 |[![AI x AI](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/70570804/b492082c-89df-464a-90e0-335ecb0a9a6f)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/428)AI x AI <br>by [doehyunback](https://api.github.com/users/doehyunback)|[![Pre-Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/20344547/a5c46f30-f72d-44f9-9e90-ee23bb8bdbee)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/429)Pre-Analysis :2nd_place_medal:<br>by [leporia](https://api.github.com/users/leporia)|[![Least Upper Bound](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/161300429/5a7d8709-1725-4b60-9027-c2e6d84dc6ed)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/430)Least Upper Bound <br>by [HLe4s-kaist](https://api.github.com/users/HLe4s-kaist)|[![Inference Rule](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/161300429/3159cd9e-ca7f-4dfa-a8e4-f1e244e24cf9)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/431)Inference Rule <br>by [HLe4s-kaist](https://api.github.com/users/HLe4s-kaist)|[![Widening and Narrowing](https://github.com/prosyslab-classroom/cs524-program-analysis/assets/161300429/3863c385-61e7-4a8b-94a4-5f7c4381595f)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/432)Widening and Narrowing 🥉<br>by [HLe4s-kaist](https://api.github.com/users/HLe4s-kaist)|
