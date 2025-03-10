@@ -1,5 +1,9 @@
 # CS524 Hall of Fame
 
+## 2025 Spring
+### Essay
+- [설득을 자동화하기](essay/2025-bongjunjang.pdf)
+
 ## 2024 Spring
 #### Essay
 - [An unused analyzer is as useful as a broken one - Andrea Lepori](essay/2024-andrealepori.pdf)
