@@ -3,6 +3,7 @@
 ## 2025 Spring
 ### Essay
 - [설득을 자동화하기](essay/2025-bongjunjang.pdf)
+- [실용주의 소프트웨어 공학자](essay/2025-hyunjooncho.pdf)
 
 ## 2024 Spring
 #### Essay
