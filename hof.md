@@ -8,6 +8,10 @@
 - [정적 분석기의 동적 생존 전략 - 이찬구](essay/2025-changoolee.pdf)
 - [정적 분석과 인공지능(𝐴𝐼)의 발전: 개발의 패러다임을 바꾸다 - 이정재](essay/2025-jungjaelee.pdf)
 
+#### Art Competition
+|[![Fixed Point](https://github.com/user-attachments/assets/66c55ce4-6268-43a9-b4de-d42c83e833c2)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/480)[Fixed Point](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/480) :2nd_place_medal:<br>by [dlwjdwo00701](https://github.com/dlwjdwo00701)|[![Sparse Analysis](https://github.com/user-attachments/assets/148979b3-8e14-499c-9c23-b401f860b728)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/479)[Sparse Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/479) :3rd_place_medal:<br>by [newwin01](https://github.com/newwin01)|[![Soundness](https://github.com/user-attachments/assets/00e420e2-0b64-41a9-b159-fa543cc90634)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/478)[Soundness](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/478) :3rd_place_medal:<br>by [zambbo](https://github.com/zambbo)|[![Abstract Interpretaion](https://github.com/user-attachments/assets/f04a0ff6-0b2f-46ac-9fc7-d6276e78b6b0)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/476)[Abstract Interpretaion](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/476) :1st_place_medal:<br>by [HyunsunHong](https://github.com/HyunsunHong)
+|:-:|:-:|:-:|:-:|
+
 ## 2024 Spring
 #### Essay
 - [An unused analyzer is as useful as a broken one - Andrea Lepori](essay/2024-andrealepori.pdf)
