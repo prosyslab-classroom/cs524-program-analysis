@@ -1,5 +1,5 @@
 # CS524: 프로그램 분석 (Program Analysis)
-## 2025 봄학기 공지사항 Notice for Spring 2025
+## 2026 봄학기 공지사항 Notice for Spring 2025
 본 수업은 "IS525: 프로그램 분석"과 상호 공유 과목으로서 함께 진행합니다.
 
 This course is a mutually shared subject with “IS525: Program Analysis”.
@@ -8,8 +8,8 @@ This course is a mutually shared subject with “IS525: Program Analysis”.
 - 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
 - 조교 TAs (mailing list: cs524.ta@prosys.kaist.ac.kr)
   - [Sujin Jang](https://prosys.kaist.ac.kr/home/sujinjang) (장수진)
-  - [Dongjae Lee](https://prosys.kaist.ac.kr/home/dongjaelee) (이동재)
-- 강의 시간 Time: 화/목 (Tue/Thu) 09:00 - 10:30
+  - [Tae Eun Kim](https://prosys.kaist.ac.kr/home/taeeunkim) (김태은)
+- 강의 시간 Time: 월/수 (Mon/Wed) 09:00 - 10:30
 - 장소 Location: N1 102
 - 면담 시간 Office hours:
   - 교수 Instructor: 화/목 (Tue/Thu) 10:30 - 11:30
