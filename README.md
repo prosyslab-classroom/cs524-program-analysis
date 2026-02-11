@@ -158,5 +158,6 @@ Have fun with student artifacts from previous semesters [here](hof.md) (distingu
   - [Scaling Static Analysis at Facebook](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext), CACM 2019
   - [Detect Bugs Early with the Static Analyzer](https://developer.apple.com/videos/play/wwdc2021/10202/), Apple WWDC 2021
   - [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
+- [Formal Reasoning meets LLMs](https://cacm.acm.org/research/formal-reasoning-meets-llms-toward-ai-for-mathematics-and-verification/)
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
 - [Recursion World](http://recursion.kaist.ac.kr)
