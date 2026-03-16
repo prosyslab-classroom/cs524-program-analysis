@@ -2,7 +2,7 @@
 
 ## 2026 Spring
 ### Essay
--[Title - Name](essay/2026-yourname.pdf)
+- [Title - Name](essay/2026-yourname.pdf)
 
 ## 2025 Spring
 ### Essay
