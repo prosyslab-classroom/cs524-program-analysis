@@ -12,18 +12,18 @@ This course is a mutually shared subject with “IS525: Program Analysis”.
 - 강의 시간 Time: 월/수 (Mon/Wed) 09:00 - 10:30
 - 장소 Location: N1 102
 - 면담 시간 Office hours:
-  - 교수 Instructor: 화/목 (Tue/Thu) 10:30 - 11:30
+  - 교수 Instructor: 월/수 (Mon/Wed) 10:30 - 11:30
   - 조교 TAs: 목 (Thu) 13:00 - 14:00
 
 ## 강의 소개 Course Description
-> "프로그램의 동작을 실행전에 미리 예측할 수 있는가?"
+> "프로그램의 동작을 실행 전에 미리 예측할 수 있는가?"
 
 본 강의에서는 위 질문에 답하는 "프로그램 분석" 기술을 소개한다.
-무한히 많은 입력값을 하나하나 넣고 돌려보는 대신, 프로그램 분석 기술은 실행전 유한한 시간안에 프로그램의 동작을 예측한다.
+무한히 많은 입력값을 하나하나 넣고 돌려보는 대신, 프로그램 분석 기술은 실행 전 유한한 시간 안에 프로그램의 동작을 예측한다.
 이 강의에서는 프로그램 분석을 위한 기초 이론, 분석기 설계와 구현을 다룰 것이다.
-학생들은 프로그래밍 언어의 의미를 엄밀히 정의하는 방법, 요약 해석 (abstract interpretation) 이론을 익히고
+학생들은 프로그래밍 언어의 의미를 엄밀히 정의하는 방법, 요약 해석(abstract interpretation) 이론을 익히고
 실전에 적용 가능한 여러 응용 기술을 직접 구현하게 될 것이다.
-그리고 아래 문장의 참 뜻을 이해할 수 있을 것이다.
+그리고 아래 문장의 참뜻을 이해할 수 있을 것이다.
 
 > 요약(abstraction)의 목적은 모호해지는 것이 아니라 완벽하게 명료한 의미를 전할 수 있는 새로운 수준을 만들어 내는 것이다. - 다익스트라
 
@@ -56,7 +56,7 @@ Then, you will be able to grasp the true meaning of the following sentence.
 ## 몰입을 위한 약속 Promises for Engagement
 모두가 몰입하는 강의를 위해 모든 전자기기(노트북, 타블릿, 핸드폰)는 책상위에 올려놓지 않기로 합시다.
 수업 중 전자기기를 사용하는 것이 끼치는 악영향은 이미 널리 알려져 있습니다([참고1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub),[참고2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)).
-본인의 주의를 산만하게 할 뿐만 아니라 주변 사람들이 수업에 집중하는데도 큰 방해가 됩니다.
+본인의 주의를 산만하게 할 뿐만 아니라 주변 사람들이 수업에 집중하는 데도 큰 방해가 됩니다.
 모두가 각자 따로 모니터를 보기 보다는 함께 같은 곳을 보며 왁자지껄 난상토론하는 수업이 되길 바랍니다.
 필요한 자료는 이 저장소에 있으니 원한다면 미리 인쇄를 해서 오세요.
 
@@ -97,7 +97,7 @@ Students will use tools described [here](TOOL.md).
 The program for grading program verifiers is automatically generated using [BugSynth](https://prosys.kaist.ac.kr/bugsynth/).
 BugSynth utilizes LLM and program verification techniques to generate natural and reliable buggy programs for grading.
 
-All submissions will be managed using Github.
+All submissions will be managed using GitHub.
 For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [discussion board](../../discussions).
 Once you accept the invitation, a private repository for your assignment will be created.
 You can push as many commits as you want before the deadline. We will grade the final commit of your `main` branch.
@@ -113,7 +113,7 @@ Through this approach, learners experience both the joy of programming and the r
 ## 학문 윤리 Academic Integrity
 학문 윤리를 어긴 수강생은 F를 받습니다. 자세한 사항은 [KAIST 전산학부 명예규정](https://cs.kaist.ac.kr/content?menu=309)을 참고하십시오.
 
-세상에 널린 자료 (예: 구글 검색, ChatGPT)를 참고하는 것은 좋지만, 그대로 베끼는 것은 윤리에 어긋납니다.
+세상에 널린 자료(예: 구글 검색, ChatGPT)를 참고하는 것은 좋지만, 그대로 베끼는 것은 윤리에 어긋납니다.
 제출한 과제는 기존 저작물(다른 수강생, 과거 수강생, AI 생성물 등)과 자동으로 비교하여 표절물을 검사합니다.
 완전히 본인의 것으로 재창조하지 않고 기존 저작물과 비슷한 경우는 표절로 판단합니다.
 이러한 원칙은 AI도구가 등장했다고 해서 달라지지 않습니다.
