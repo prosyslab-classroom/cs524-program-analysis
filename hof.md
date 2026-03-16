@@ -1,5 +1,9 @@
 # CS524 Hall of Fame
 
+## 2026 Spring
+### Essay
+-[Title - Name](essay/2026-yourname.pdf)
+
 ## 2025 Spring
 ### Essay
 - [설득을 자동화하기 - 장봉준](essay/2025-bongjunjang.pdf)
