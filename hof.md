@@ -3,6 +3,7 @@
 ## 2026 Spring
 ### Essay
 - [Title - Name](essay/2026-yourname.pdf)
+- [어떤 실패를 두려워하는가: 정적 분석 설계를 가르는 우선순위의 차이 - 김봄](essay/2026-bomkim.pdf)
 
 ## 2025 Spring
 ### Essay
