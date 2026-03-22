@@ -2,7 +2,6 @@
 
 ## 2026 Spring
 ### Essay
-- [Title - Name](essay/2026-yourname.pdf)
 - [어떤 실패를 두려워하는가: 정적 분석 설계를 가르는 우선순위의 차이 - 김봄](essay/2026-bomkim.pdf)
 - [사람의, 사람에 의한, 사람을 위한 - 이연준](essay/2026-yeonjunlee.pdf)
 - [드디어 '융합'이 절실한 곳을 찾았다 - 정승현](essay/2026-seunghyeonjeong.pdf)
