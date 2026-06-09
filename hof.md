@@ -8,6 +8,16 @@
 - [인공지능 시대의 소프트웨어 개발은 왜 더 빠르지만 더
 불안해졌는가 - 이주창](essay/2026-juchanglee.pdf)
 
+#### SmaLLVM Analyzer Competition Top Scorer :trophy:
+1. 고상준
+2. 김찬이
+3. 정승현
+
+#### ThriLLVM Analyzer Competition Top Scorer :trophy:
+1. 고상준
+2. 김찬이
+3. 박정원
+
 ## 2025 Spring
 ### Essay
 - [설득을 자동화하기 - 장봉준](essay/2025-bongjunjang.pdf)
