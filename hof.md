@@ -23,6 +23,8 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[![Variant](https://github.com/user-attachments/assets/176f44c6-017b-4647-b10d-ddb91f38931b)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/518)[Variant](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/518) :3rd_place_medal:<br>by [b0mkim](https://github.com/b0mkim)|[![Halting Problem](https://github.com/user-attachments/assets/00312a2a-d81e-4fe6-8978-08f2a511b80f)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/515)[Halting Problem](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/515) <br>by [SangjunKo](https://github.com/SangjunKo)|[![Fixed Point](https://github.com/user-attachments/assets/394cda34-6644-4e2b-a38c-857e802fd49d)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/516)[Fixed Point](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/516) <br>by [mntly](https://github.com/mntly)|[![Soundness - To catch even the smallest blemish, even perfect apples are thrown away.](https://github.com/user-attachments/assets/ed893429-462c-4a9b-b694-212c5d52a42c)](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/512)[Soundness - To catch even the smallest blemish, even perfect apples are thrown away.](https://github.com/prosyslab-classroom/cs524-program-analysis/discussions/512) <br>by [GaeunBae](https://github.com/GaeunBae)|
 
+**Award Session** : Checkout the photos [here](https://photos.app.goo.gl/KJcyJg5ULMj7X69u9)!!
+
 ## 2025 Spring
 ### Essay
 - [설득을 자동화하기 - 장봉준](essay/2025-bongjunjang.pdf)
